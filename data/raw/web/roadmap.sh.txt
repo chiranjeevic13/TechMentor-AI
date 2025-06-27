@@ -1,0 +1,75 @@
+Source: https://roadmap.sh
+
+
+
+roadmap.sh is a community effort
+      to create roadmaps, guides and other educational content to help guide developers
+      in picking up a path and guide their learnings.
+
+Community created roadmaps, guides and articles to help developers grow in
+      their career.
+
+Actively Maintained
+
+We are always improving our content, adding new resources and adding
+      features to enhance your learning experience.
+
+Join the Community
+
+roadmap.sh is the 6th most starred project on GitHub and is visited by hundreds of thousands of developers every month.
+
+Rank 6th
+ out of 28M!
+
+329K
+
+GitHub Stars
+
++90k
+every month
+
++2.1M
+
+Registered Users
+
++2k
+every month
+
+38K
+
+Discord Members
+
+Roadmaps Best Practices Guides Videos FAQs YouTube
+
+roadmap.sh  by  @kamrify @kamrify
+
+Community created roadmaps, best practices, projects, articles,
+          resources and journeys to help you choose your path and grow in your
+          career.
+
+© roadmap.sh
+· Terms · Privacy ·  
+
+
+
+
+
+
+
+
+      
+
+   Bluesky Streamline Icon: https://streamlinehq.comBluesky
+
+The top DevOps resource for Kubernetes, cloud-native computing, and
+          large-scale development and deployment.
+
+DevOps · Kubernetes · Cloud-Native
+
+
+
+Login or Signup
+
+You must be logged in to perform this action.
+
+Reset your password?
