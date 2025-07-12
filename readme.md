@@ -2,6 +2,12 @@
 
 TechMentor AI is an advanced Retrieval-Augmented Generation (RAG) chatbot that provides personalized guidance for tech careers, learning resources, and project ideas. It combines a local knowledge base with dynamic web search capabilities to deliver comprehensive, up-to-date information.
 
+## 📽️ Demo Video
+
+Check out the live demo of the project on YouTube:  
+[![Demo Video](https://img.youtube.com/vi/JW-aZfSVVaQ/0.jpg)](https://youtu.be/JW-aZfSVVaQ)
+
+
 ## 🚀 Features
 
 - **Career Roadmaps**: Personalized career paths for various tech domains
